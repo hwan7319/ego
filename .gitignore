@@ -1,0 +1,13 @@
+# Unity auto-generated folders
+/[Uu]nity/[Ll]ibrary/
+/[Uu]nity/[Vv]isual[Ss]tudio/
+/[Uu]nity/[Oo]bj/
+/[Uu]nity/[Pp]roject[Sg]ettings/ProjectVersion.txt
+/[Uu]nity/[Tt]emp/
+/[Uu]nity/[Ll]ogs/
+/[Uu]nity/[Vv]alidation[Cc]ache/
+/[Uu]nity/[Qu]ality[Aa]ssurance/
+
+# OS files
+.DS_Store
+Thumbs.db
