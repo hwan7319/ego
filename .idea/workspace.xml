@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da7d2520-d978-4a66-aa80-f1c90694d104" name="Changes" comment="first step">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="da7d2520-d978-4a66-aa80-f1c90694d104" name="Changes" comment="두번째 회의">
+      <change afterPath="$PROJECT_DIR$/docs/MANIFESTO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/design/11_LIVE_SERVICE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/R005_PlayerExpression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03_GAME_PILLARS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03_GAME_PILLARS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,6 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
@@ -74,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1783413842805</updated>
       <workItem from="1783413845026" duration="1545000" />
-      <workItem from="1783473522928" duration="2921000" />
+      <workItem from="1783473522928" duration="6541000" />
     </task>
     <task id="LOCAL-00001" summary="first step">
       <option name="closed" value="true" />
@@ -84,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783414352411</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="두번째 회의">
+      <option name="closed" value="true" />
+      <created>1783485983142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783485983142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first step" />
-    <option name="LAST_COMMIT_MESSAGE" value="first step" />
+    <MESSAGE value="두번째 회의" />
+    <option name="LAST_COMMIT_MESSAGE" value="두번째 회의" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
